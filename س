@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "initial commit - bot + panel"
+git branch -M main
+git remote add origin https://github.com/Realpotatto/irforge-app-web
+Public
+
+git push -u origin main --force
+git push -u origin main:master
