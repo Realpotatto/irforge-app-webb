@@ -1,7 +1,16 @@
+# Dependencies
 node_modules/
+
+# Build output
 dist/
-.tsbuildinfo
 *.tsbuildinfo
+
+# Environment
 .env
 .env.local
-pnpm-lock.yaml
+
+# OS
+.DS_Store
+
+# Logs
+*.log
